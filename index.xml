@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PEILLEN LI</title>
+    <link>https://peillenli.github.io/</link>
+    <description>Recent content on PEILLEN LI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2023 16:37:26 -0700</lastBuildDate><atom:link href="https://peillenli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://peillenli.github.io/about/about/</link>
+      <pubDate>Sun, 26 Mar 2023 16:37:26 -0700</pubDate>
+      
+      <guid>https://peillenli.github.io/about/about/</guid>
+      <description>Hi there, I&amp;rsquo;m Peillen Li! I&amp;rsquo;m a 1st-year ECE master student at University of Washington, Seattle (UW). I received my Bachelor&amp;rsquo;s degree in Electronic and Information Engineering from Huazhong University of Science and Technology (HUST) in 2022.
+Some of my key features include:
+Y H L &amp;hellip; My project experiences, my research interests and other things about me will be released soon&amp;hellip;
+&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://peillenli.github.io/projects/</link>
+      <pubDate>Sun, 26 Mar 2023 16:37:26 -0700</pubDate>
+      
+      <guid>https://peillenli.github.io/projects/</guid>
+      <description>I have many project experiences in multiple fields like hardware, software, robotics and CV&amp;hellip; planning to show them in this site soon </description>
+    </item>
+    
+  </channel>
+</rss>
